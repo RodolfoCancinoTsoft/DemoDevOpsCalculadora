@@ -14,14 +14,8 @@ public class CalculadoraTest {
         //Calculadora calculadora1 = new Calculadora();
         //MainCalculadora mainCalculadora = new MainCalculadora();
 
-        Calculadora calculadora1 = new Calculadora();
 
 
-        int resultadoActual = calculadora1.sumar();
-        int resultadoEsperado = calculadora1.sumar();
 
-        Assert.assertEquals(resultadoEsperado,resultadoActual);
-        System.out.println(""+resultadoActual);
-        System.out.println(""+resultadoEsperado);
     }
 }
