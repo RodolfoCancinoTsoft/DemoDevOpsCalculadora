@@ -44,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CalculadoraTest.metodoSumar">
+  <component name="RunManager" selected="Application.MainCalculadora">
     <configuration name="MainCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="democalculadora.MainCalculadora" />
       <module name="DemoDevOps5" />
@@ -52,7 +52,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraTest.metodoSumar" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="All in DemoDevOps5 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoDevOps5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in DemoDevOps5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoDevOps5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest" type="TestNG" nameIsGenerated="true">
+      <module name="DemoDevOps5" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCalculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCalculadora" />
+      <option name="MAIN_CLASS_NAME" value="testCalculadora.CalculadoraTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.metodoRestar" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DemoDevOps5" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +105,36 @@
       </extension>
       <option name="PACKAGE_NAME" value="testCalculadora" />
       <option name="MAIN_CLASS_NAME" value="testCalculadora.CalculadoraTest" />
-      <option name="METHOD_NAME" value="metodoSumar" />
+      <option name="METHOD_NAME" value="metodoRestar" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.metodoSumar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoDevOps5" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCalculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCalculadora" />
+      <option name="MAIN_CLASS_NAME" value="testCalculadora.CalculadoraTest" />
+      <option name="METHOD_NAME" value="metodoSumar" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -72,8 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CalculadoraTest.metodoSumar" />
         <item itemvalue="Application.MainCalculadora" />
+        <item itemvalue="JUnit.All in DemoDevOps5 (1)" />
+        <item itemvalue="JUnit.All in DemoDevOps5" />
+        <item itemvalue="TestNG.CalculadoraTest.metodoRestar" />
+        <item itemvalue="TestNG.CalculadoraTest.metodoSumar" />
       </list>
     </recent_temporary>
   </component>
